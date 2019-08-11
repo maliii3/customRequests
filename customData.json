@@ -1,0 +1,19 @@
+{
+    "marionettes":[
+        {
+            "name":"Koçal Ayakkbı",
+            "long":40.6585986,
+            "lat":29.2585665
+        },
+        {
+            "name":"Civil Yalova",
+            "long":40.6533709,
+            "lat":29.2709268
+        },
+        {
+            "name":"Dörtyol Eczanesi",
+            "long":40.6568289,
+            "lat":29.2787421
+        }
+    ]
+}
